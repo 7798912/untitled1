@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Aug 02 14:56:31 CST 2023","Wed Aug 02 14:56:31 CST 2023","30","test_play","Test_login","TestMobile","","","test_login4[caseinfo0]","异常场景：用户名错误，密码正确"
+"passed","Wed Aug 02 14:56:31 CST 2023","Wed Aug 02 14:56:31 CST 2023","32","test_play","Test_login","TestMobile","","","test_login1[caseinfo0]","异常场景：用户名正确，密码为空"
+"passed","Wed Aug 02 14:56:31 CST 2023","Wed Aug 02 14:56:31 CST 2023","35","test_play","Test_login","TestMobile","","","test_login3[caseinfo0]","异常场景：用户名，密码为空"
+"passed","Wed Aug 02 14:56:31 CST 2023","Wed Aug 02 14:56:31 CST 2023","34","test_play","Test_login","TestMobile","","","test_login5[caseinfo0]","异常场景：用户名正确，密码错误"
+"passed","Wed Aug 02 14:56:31 CST 2023","Wed Aug 02 14:56:31 CST 2023","66","test_play","Test_login","TestMobile","","","test_login[caseinfo0]","正确用户名，密码登录"
+"passed","Wed Aug 02 14:56:31 CST 2023","Wed Aug 02 14:56:31 CST 2023","29","test_play","Test_login","TestMobile","","","test_login2[caseinfo0]","异常场景：用户名为空，密码正确"
